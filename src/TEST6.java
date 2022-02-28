@@ -11,6 +11,7 @@ public class TEST6 {
         int yak = 50;
         int du = 45;
         return yak - du;
+
     }
 
 }
